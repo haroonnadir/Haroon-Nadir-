@@ -8,3 +8,4 @@ I am a positive, enthusiastic and competent Web Developer who, over the years, h
 -Here are some ideas to get you started:
 
 -🔭 I first personal project: https:// 🌱 I’m currently working on my WordPress Block Theme 💬 Ask me about WordPress Development 📫 How to reach me: https://.com ⚡ Fun fact: I love writting code for FUN
+..
